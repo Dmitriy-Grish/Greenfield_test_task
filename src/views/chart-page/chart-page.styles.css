@@ -1,0 +1,19 @@
+.chart-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.chart-page-header {
+  font-size: 35px;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+.chart-page-button {
+  margin-top: 25px;
+  margin-left: auto;
+}
